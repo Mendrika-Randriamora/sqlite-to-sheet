@@ -1,5 +1,5 @@
-from Db import Db
-from Table import Table
+from Enity.Db import Db
+from Enity.Table import Table
 import pandas as pd
 
 def print_table(table: Table):
